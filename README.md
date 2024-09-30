@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surharsan
+- 👋 Hi, I’m @Sudharsan
 - 👀 I’m interested in... hacking
 - 🌱 I’m currently learning ... Python,c++,java
 - 💞️ I’m looking to collaborate on ...deep thing
